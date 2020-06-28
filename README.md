@@ -10,6 +10,8 @@ torch 1.1.0
 torchvision 0.3.0  
 
 ## 训练并测试：
+python train.py --config cnn.ini
+python test.py --config cnn.ini
 python run.py --model textRnn
 
 ## 参数
