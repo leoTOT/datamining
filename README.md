@@ -21,11 +21,14 @@ textcnn参数在cnn.ini中,模型定义在model.py中.
 ## 参考文献
 参考文献
 [1]Zhang Y, Wallace B. A sensitivity analysis of (and practitioners’ guide to) convolutional neural networks
-for sentence classification[J]. arXiv preprint arXiv:1510.03820, 2015.
+for sentence classification[J]. arXiv preprint arXiv:1510.03820, 2015.&emsp;
+
 [2]Kim Y. Convolutional neural networks for sentence classification[J]. arXiv preprint arXiv:1408.5882, 2014.
 Liu P, Qiu X, Huang X. Recurrent neural network for text classification with multi-task learning[J]. arXiv
-preprint arXiv:1605.05101, 2016.
+preprint arXiv:1605.05101, 2016.&emsp;
+
 [3]Lai S, Xu L, Liu K, et al. Recurrent convolutional neural networks for text classification[C]//Twenty-ninth
-AAAI conference on artificial intelligence. 2015.
+AAAI conference on artificial intelligence. 2015.&emsp;
+
 [4]Johnson R, Zhang T. Deep pyramid convolutional neural networks for text categorization[C]//Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics
-(Volume 1: Long Papers). 2017: 562-570.
+(Volume 1: Long Papers). 2017: 562-570.&emsp;
